@@ -1,8 +1,6 @@
 import React from "react";
 import "./Business.css";
 
-// eslint-disable-next-line no-unused-vars
-
 class Business extends React.Component {
   render() {
     const { business } = this.props;
